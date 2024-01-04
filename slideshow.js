@@ -1,4 +1,4 @@
-const myImages = ["../../Images/image1.jpg","../../Images/image2.jpg","../../Images/image3.jpg","../../Images/image4.jpg","../../Images/image5.jpg","../../Images/image6.jpg","../../Images/image7.jpg","../../Images/image8.jpg","../../Images/image9.jpg","../../Images/image10.jpg"]
+const myImages = ["Images/image1.jpg","Images/image2.jpg","Images/image3.jpg","Images/image4.jpg","Images/image5.jpg","Images/image6.jpg","Images/image7.jpg","Images/image8.jpg","Images/image9.jpg","Images/image10.jpg"]
 
 let currentImage = 0;
 let nextLink = document.getElementById('next');
